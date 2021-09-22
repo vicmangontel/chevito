@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @chevito
-- 🌱 I’m currently learning elixir, blazor and DDD...
-- 💞️ I’m looking to collaborate on elixir/python projects...
+- 🌱 I’m currently learning golang, svelte, docker.
 
 
 <!---
