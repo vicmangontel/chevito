@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chevito
-- 🌱 I’m currently learning golang, svelte, docker.
+- 🌱 I’m currently learning go, mongo, svelte and docker.
 
 
 <!---
